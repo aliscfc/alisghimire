@@ -1,4 +1,4 @@
-# 👋 My Introduction
+## 👋 My Introduction
 
 Hi, I'm Alis, a data analysis student with a strong emphasis on SQL, Tableau, and Excel. I'm skilled in data management, data visualization, and data analysis techniques. 
 
