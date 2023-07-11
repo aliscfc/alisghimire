@@ -6,7 +6,7 @@ During my studies, I've honed my skills in extracting valuable insights from dat
 
 Currently, I'm looking for opportunities in roles like Data Analyst, Business Intelligence Analyst, or Tableau Developer.
 
-#🛠️ Tools
+🛠️ #Tools
 
 - Database: MySQL, SQL Server
 - BI: Tableau, Excel
