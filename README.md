@@ -8,4 +8,5 @@ Currently, I'm looking for opportunities in roles like Data Analyst, Business In
 
 ### Tools
 - Database: MySQL, SQL Server
-- BI: Tableau, Excel
+- Business Intelligence: Tableau, Excel
+- Domain Knowledge - Marketing, E-commerce, Sports
